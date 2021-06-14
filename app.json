@@ -1,0 +1,12 @@
+{
+  "name": "default-project-files",
+  "displayName": "default-project-files",
+  "expo": {
+    "name": "default-project-files",
+    "slug": "default-project-files",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
