@@ -8,5 +8,8 @@
     "assetBundlePatterns": [
       "**/*"
     ]
+  },
+  "ios": {
+    "userInterfaceStyle": "automatic"
   }
 }
